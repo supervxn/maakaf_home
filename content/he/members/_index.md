@@ -1,7 +1,7 @@
 ---
 type: 'members'
-title: 'חברים ופעילות'
-linkTitle: 'חברים ופעילות'
+title: 'פעילות הקהילה'
+linkTitle: 'פעילות הקהילה'
 menu:
   main:
     weight: 80
